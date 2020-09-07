@@ -1,0 +1,5 @@
+*.mp4
+*.cfg
+*.weights
+classes.txt
+__pycache__
